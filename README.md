@@ -1,4 +1,4 @@
-# Unit 20 React Homework: Employee Directory
+React Employee Directory
 
 ## Overview
 
