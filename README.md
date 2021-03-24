@@ -14,4 +14,4 @@ The user will be able to:
 
   * Filter the users by first name.
 
-![](src/dirpage.png.png)
+![](src/dirpage.png)
